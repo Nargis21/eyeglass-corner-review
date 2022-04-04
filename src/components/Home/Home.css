@@ -1,17 +1,54 @@
 .home-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin: 20px 10px;
 }
 
-.home-title {
+.home-title1 {
     padding: 30px;
 }
 
-.home-title h1 {
+.home-title1 h1 {
     color: orange;
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
-.home-title p {
+.home-title1 p {
     color: gray;
+}
+
+.explore-btn {
+    padding: 15px 40px;
+    background-color: orange;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    font-size: large;
+}
+
+.home-title2 {
+    text-align: center;
+    padding: 40px;
+    font-size: 2rem;
+}
+
+.review-cart-conatiner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    margin: 30px
+}
+
+.seeall {
+    text-align: center;
+    margin: 20px;
+}
+
+.seeall-btn {
+    padding: 15px 60px;
+    background-color: orange;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    font-size: large;
 }

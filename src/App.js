@@ -7,6 +7,7 @@ import Blogs from './components/Blogs/Blogs'
 import About from './components/About/About'
 import NotFound from './components/NotFound/NotFound';
 import Navbar from './components/Navbar/Navbar';
+
 function App() {
   return (
     <div>
