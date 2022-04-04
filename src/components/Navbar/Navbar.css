@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 10px;
+}
+
+.navbar a {
+    font-size: 17px;
+    margin-left: 40px;
+    font-weight: 500;
+}

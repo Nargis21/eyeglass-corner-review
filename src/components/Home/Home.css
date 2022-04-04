@@ -1,0 +1,17 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.home-title {
+    padding: 30px;
+}
+
+.home-title h1 {
+    color: orange;
+    font-size: 4rem;
+}
+
+.home-title p {
+    color: gray;
+}
