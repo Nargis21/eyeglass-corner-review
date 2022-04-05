@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div className='navbar'>
             <CustomLink to='/'>Home</CustomLink>
-            <CustomLink to='/review'>Review</CustomLink>
+            <CustomLink to='/review'>Reviews</CustomLink>
             <CustomLink to='/dashboard'>Dashboard</CustomLink>
             <CustomLink to='/blogs'>Blogs</CustomLink>
             <CustomLink to='/about'>About</CustomLink>
