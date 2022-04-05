@@ -1,0 +1,5 @@
+.charts-container {
+    display: flex;
+    gap: 50px;
+    margin: 80px 30px;
+}
