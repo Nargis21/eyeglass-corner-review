@@ -1,0 +1,11 @@
+.questions {
+    margin: 50px 30px;
+    border: 0;
+    border-radius: 20px;
+    background-color: bisque;
+    padding: 20px;
+}
+
+.questions h1 {
+    color: goldenrod
+}
